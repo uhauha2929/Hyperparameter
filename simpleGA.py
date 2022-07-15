@@ -3,7 +3,7 @@ from operator import attrgetter
 
 import numpy as np
 
-
+# 仅为演示遗传算法步骤
 class Population(object):
     
     def __init__(self, size=100, gene_length=10):
